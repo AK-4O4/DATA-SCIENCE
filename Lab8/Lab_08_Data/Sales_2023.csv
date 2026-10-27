@@ -1,0 +1,4 @@
+OrderID,Date,CustomerID,Product,Quantity,Price
+1001,2023-11-05,C01,Laptop,1,900
+1002,2023-11-12,C02,Mouse,3,15
+1003,2023-12-01,C03,Keyboard,2,30
