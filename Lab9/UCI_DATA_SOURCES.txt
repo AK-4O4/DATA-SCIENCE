@@ -1,0 +1,30 @@
+WEEK 09 DATA SCIENCE LAB | UCI MACHINE LEARNING REPOSITORY
+
+Extract these files into your working folder. Save the instructor or task
+scripts in that folder. Open a terminal there before running Python.
+
+The four data files are unchanged UCI downloads. Three local file names
+have been made descriptive. The instructor and tasks do any cleaning in code.
+
+auto_mpg.csv
+  Demo: Auto MPG (Quinlan, 1993)
+  https://doi.org/10.24432/C5859H
+  https://archive.ics.uci.edu/static/public/9/data.csv
+
+real_estate.csv
+  Task 1: Real Estate Valuation (Yeh, 2018)
+  https://doi.org/10.24432/C5J30W
+  https://archive.ics.uci.edu/static/public/477/data.csv
+
+yacht_hydrodynamics.data
+  Task 2: Yacht Hydrodynamics (Gerritsma, Onnink, and Versluis, 1981)
+  https://doi.org/10.24432/C5XG7R
+  https://archive.ics.uci.edu/ml/machine-learning-databases/00243/yacht_hydrodynamics.data
+
+concrete_strength.csv
+  Task 3: Concrete Compressive Strength (Yeh, 1998)
+  https://doi.org/10.24432/C5PK67
+  https://archive.ics.uci.edu/static/public/165/data.csv
+
+UCI lists all four datasets under Creative Commons Attribution 4.0
+International: https://creativecommons.org/licenses/by/4.0/
